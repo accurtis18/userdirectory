@@ -1,0 +1,17 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "role_id": "3"
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Jones",
+        "role_id": "2"
+    },
+    {
+        "first_name": "Kim",
+        "last_name": "Hanson",
+        "role_id": "3"
+    }
+]
