@@ -13,24 +13,6 @@ function Employee(props) {
   }
       
 class Display extends Component {
-
-    // state = {
-    //     result: [],
-    // };
-
-    // employees = [];
-
-    // componentDidMount() {
-    //     this.setState({
-    //         result: data.map((e, i) => ({
-    //                 first: e.first_name,
-    //                 last: e.last_name,
-    //                 role: e.role_id,
-    //                 key: i
-    //             }))
-    //     });
-    //         this.employees = this.state.result;
-    // }
       
     constructor(props) {
         super(props);
